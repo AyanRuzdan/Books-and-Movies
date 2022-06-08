@@ -19,3 +19,8 @@
 - [ ] [[The Binding ~ Bridget Collins]]
 - [ ] [[Ella Enchanted ~ Gail Carson Levine]]
 - [ ] [[The Girl Who Drank the Moon ~ Kelly Barnhill]]
+- [ ] [[Practical Magic ~ Alice Hoffman]]
+- [ ] [[The Rules of Magic ~ Alice Hoffman]]
+- [ ] [[The Sight (The Sight Part 1) ~ David Clement-Davies]]
+- [ ] [[Fell (The Sight Part 2) ~ David Clement-Davies]]
+- [ ] [[Fire Bringer ~ David Clement-Davies]]
