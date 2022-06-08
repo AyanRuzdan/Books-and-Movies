@@ -18,4 +18,4 @@
 - [ ] [[The Starless Sea ~ Erin Morgenstern]]
 - [ ] [[The Binding ~ Bridget Collins]]
 - [ ] [[Ella Enchanted ~ Gail Carson Levine]]
-- [ ] 
+- [ ] [[The Girl Who Drank the Moon ~ Kelly Barnhill]]
