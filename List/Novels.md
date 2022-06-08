@@ -24,3 +24,6 @@
 - [ ] [[The Sight (The Sight Part 1) ~ David Clement-Davies]]
 - [ ] [[Fell (The Sight Part 2) ~ David Clement-Davies]]
 - [ ] [[Fire Bringer ~ David Clement-Davies]]
+- [ ] [[To Kill a Mockingbird ~ Harper Lee]]
+- [ ] [[Rebecca ~ Daphne du Maurier]]
+- [ ] [[Wuthering Heights ~ Emily Brontë]]
