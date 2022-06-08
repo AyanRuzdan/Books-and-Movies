@@ -27,3 +27,5 @@
 - [ ] [[To Kill a Mockingbird ~ Harper Lee]]
 - [ ] [[Rebecca ~ Daphne du Maurier]]
 - [ ] [[Wuthering Heights ~ Emily Brontë]]
+- [ ] [[War and Peace ~ Leo Tolstoy]]
+- [ ] [[Frankenstein ~ Mary Shelly]]
