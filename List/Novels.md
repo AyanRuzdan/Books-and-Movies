@@ -1,3 +1,10 @@
+> 9744 for empty-box.
+> 9745 for check-box.
+
+|S. No.|Book|AR|
+|-|-|-|
+|1.|[[Down Comes the Night ~ Allison Saft]]|&cross;|
+|2.|pqrs|&check;|
 - [ ] [[Down Comes the Night ~ Allison Saft]]
 - [ ] [[Letter to Milena ~ Franz Kafka]]
 - [ ] [[Quiet The Power of Introverts in a World That Can't Stop Talking ~Susan Cain]]
