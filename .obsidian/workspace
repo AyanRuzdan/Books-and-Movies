@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "0a7526312a461033",
+    "type": "split",
+    "children": [
+      {
+        "id": "058997ca5d4a1015",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "List/Novels.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ac41d22c41be7ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a80a16e703df0fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e283433f4ed239b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8c0f3bab6cca3ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5f31ec5d7853d705",
+    "type": "split",
+    "children": [
+      {
+        "id": "557800fc51f0f40e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ebed97366dd833a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "List/Novels.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "058997ca5d4a1015",
+  "lastOpenFiles": [
+    "List/Novels.md",
+    "Frankenstein ~ Mary Shelly.md",
+    "War and Peace ~ Leo Tolstoy.md",
+    "Wuthering Heights ~ Emily Brontë.md",
+    "Rebecca ~ Daphne du Maurier.md",
+    "To Kill a Mockingbird ~ Harper Lee.md",
+    "Novels/Fire Bringer ~ David Clement-Davies.md",
+    "Novels/The Sight (The Sight Part 1) ~ David Clement-Davies.md",
+    "Novels/Fell (The Sight Part 2) ~ David Clement-Davies.md",
+    "Novels/The Sight (The Sight.md"
+  ]
+}
