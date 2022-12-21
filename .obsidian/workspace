@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "058997ca5d4a1015",
+        "id": "1b56efa8c8229ffb",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "List/Novels.md",
-            "mode": "source"
-          },
-          "pinned": true
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -49,6 +44,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "fca08ade4742e912",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -71,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List/Novels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +83,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "642724726ec15656",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "620198d6eff15dba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eaed2733455f7627",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
@@ -89,7 +121,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "058997ca5d4a1015",
+  "active": "1b56efa8c8229ffb",
   "lastOpenFiles": [
     "List/Novels.md",
     "Frankenstein ~ Mary Shelly.md",
