@@ -5,18 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "line:(Sci-fi)",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "line:(Romance)",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.73503118503118,
+  "lineSizeMultiplier": 0.553326403326403,
   "collapse-forces": false,
-  "centerStrength": 0.398183760683761,
+  "centerStrength": 0.22972972972973,
   "repelStrength": 13.5726495726496,
   "linkStrength": 0.747008547008547,
   "linkDistance": 439,
-  "scale": 0.7315819601604292,
+  "scale": 0.5444129817491848,
   "close": true
 }

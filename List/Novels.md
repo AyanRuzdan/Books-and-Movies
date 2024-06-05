@@ -29,3 +29,4 @@
 - [ ] [[Wuthering Heights ~ Emily Brontë]]
 - [ ] [[War and Peace ~ Leo Tolstoy]]
 - [ ] [[Frankenstein ~ Mary Shelly]]
+- [ ] [[Norwegian Wood ~ Murakami]]
