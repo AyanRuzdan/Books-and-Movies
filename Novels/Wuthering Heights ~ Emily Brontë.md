@@ -1,2 +1,0 @@
-Tags: [[Fiction]], [[Romance]]
-Overview: Wuthering Heights is an 1847 novel by Emily Brontë, initially published under her pen name Ellis Bell. It concerns two families of the landed gentry living on the West Yorkshire moors, the Earnshaws and the Lintons, and their turbulent relationships with Earnshaw's foster son, Heathcliff. The novel was influenced by Romanticism and Gothic fiction

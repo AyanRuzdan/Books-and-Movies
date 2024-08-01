@@ -1,3 +1,0 @@
-Tags: [[Nonfiction]]
-Overview: 
-In no other work does Kafka reveal himself as in the _Letters to Milena_, which begin essentially as a business correspondence but soon develop into a passionate "letter love." Milena Jesenská was a gifted and charismatic woman of twenty-three. Kafka's Czech translator, she was uniquely able to recognize his complex genius and his even more complex character. For the thirty-six-year-old Kafka, she was "a living fire, such as I have never seen." It was to her that he revealed his most intimate self. It was to her that, after the end of the affair, he entrusted the safekeeping of his diaries.

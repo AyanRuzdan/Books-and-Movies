@@ -1,5 +1,0 @@
-Tags: [[Fantasy]], [[Fiction]], [[Romance]]
-Overview:
-Books are dangerous things in Collins's alternate universe, a place vaguely reminiscent of 19th-century England. It's a world in which people visit book binders to rid themselves of painful or treacherous memories. Once their stories have been told and are bound between the pages of a book, the slate is wiped clean and their memories lose the power to hurt or haunt them.  
-  
-After having suffered some sort of mental collapse and no longer able to keep up with his farm chores, Emmett Farmer is sent to the workshop of one such binder to live and work as her apprentice. Leaving behind home and family, Emmett slowly regains his health while learning the binding trade. He is forbidden to enter the locked room where books are stored, so he spends many months marbling end pages, tooling leather book covers, and gilding edges. But his curiosity is piqued by the people who come and go from the inner sanctum, and the arrival of the lordly Lucian Darnay, with whom he senses a connection, changes everything.

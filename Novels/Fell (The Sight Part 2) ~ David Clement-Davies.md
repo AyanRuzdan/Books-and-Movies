@@ -1,3 +1,0 @@
-Tags: [[Fantasy]], [[Fiction]], [[Young Adult]]
-Overview:
-In this dark, thrilling fairy tale, it is the wolf who saves the girl. Fell, the dark-furred twin brother of Larka, the heroine of _The Sight_, must face life without his sister or the rest of his loving pack. He’s a lone wolf now, a “kerl,” an outcast from his kind who shares his sister’s fatal gift for seeing the future and the thoughts of others. This gift leads him to befriend a young girl, also an outcast from her people. They have a shared destiny: to free the land from a tyrannical ruler who would enslave man and animal alike.
