@@ -1,3 +1,113 @@
-# Novels\
+# Novels
+- Down Comes the Night ~ Allison Saft
+- Letter to Milena ~ Franz Kafka
+- Quiet The Power of Introverts in a World That Can't Stop Talking ~Susan Cain
+- Man's Search for Meaning ~ Viktor E. Frankl
+- The Art of Thinking Clearly ~ Rolf Dobelli
+- 1984 ~ George Orwell
+- The Great Gatsby ~ F. Scott Fitzgerald
+- Lord of the Flies ~ William Golding
+- Farhenheit 451 ~ Ray Bradbury
+- Mrs. Dalloway ~ Virginia Woolf
+- The Bell Jar ~ Sylvia Plath
+- His Dark Materials 1 (The Golden Compass) ~ Philip Pullman
+- His Dark Materials 2 (The Subtle Knife) ~ Philip Pullman
+- His Dark Materials 3 (The Amber Spyglass) ~ Philip Pullman
+- The Book of Dust 1 (La Belle Sauvage)  ~ Philip Pullman
+- The Book of Dust 2 (The Secret Commonwealth) ~ Philip Pullman
+- The Night Circus ~ Erin Morgenstern
+- The Starless Sea ~ Erin Morgenstern
+- The Binding ~ Bridget Collins
+- Ella Enchanted ~ Gail Carson Levine
+- The Girl Who Drank the Moon ~ Kelly Barnhill
+- Practical Magic ~ Alice Hoffman
+- The Rules of Magic ~ Alice Hoffman
+- The Sight (The Sight Part 1) ~ David Clement-Davies
+- Fell (The Sight Part 2) ~ David Clement-Davies
+- Fire Bringer ~ David Clement-Davies
+- To Kill a Mockingbird ~ Harper Lee
+- Rebecca ~ Daphne du Maurier
+- Wuthering Heights ~ Emily Brontë
+- War and Peace ~ Leo Tolstoy
+- Frankenstein ~ Mary Shelly
+- The Bell Jar ~ Sylvia Plath
+- The Time Traveller's Wife
+- The Trial
+- Nausea (Sartre)
+- A Farewell to Arms
+- Lolita
+- Jane Eyre
+- A Thousand Splendid Suns
+- At Night All Blood is Black
+- A Little Life
+- The Brothers Karamazov
+- Crime and Punishment
+- Demons
+- Six of Crows
+- Betty(Tiffany)
+- The Stranger
+- The Castle
+- The Unbearable Lightness of Being
+- The Catcher in the Rye
+- The Girl on the Train
+- On Earth We're Briefly Gorgeous
+- Giovanni's Room
+- God, Freedom and Evil
+- Candide (Voltaire)
+- All the Bright Places
+- Wandering Stars
+- Wild Houses(Colin Barrett)
+- Held(Anne Michaels)
+- Creation Lake(Rachel Kushner)
+- This Strange Eventful History(Claire Messud)
+- Playground(Richard Powers)
+- Enlightenment(Sarah Perry)
+- Orbital(Samantha Harvey)
+- James(Percival Everett)
+- The Safekeep(Yael van der Wouden)
+- My Friends(Hisham Matar)
+- Stone Yard Devotional(Charlotte Wood)
+- Headshot(Rita Bullwinkel)
 
+# Movies
 
+- Dead Poets Society (1989)
+- Lean on Me (1989)
+- What's Eating Gilbert Grape (1993)
+- Forrest Gump (1994)
+- The Shawshank Redemption (1994)
+- American History X (1998)
+- Saving Private Ryan (1998)
+- The Matrix (1999)
+- Fight Club (1999)
+- The Green Mile (1999)
+- Pay It Forward (2000)
+- Requiem for a Dream (2000)
+- Waking Life (2001)
+- The Pianist (2002)
+- Coach Carter (2005)
+- Children of Men (2006)
+- The Pursuit of Happiness (2006)
+- Into the Wild (2007)
+- Blood Diamond (2007)
+- Freedom Writers (2007)
+- Seven Pounds (2008)
+- I Saw the Sun (2009)
+- 12 Years a Slave (2013)
+- The Secret Life of Walter Mitty (2013)
+- Room (2015)
+- Hacksaw Ridge (2016)
+- The curious case of BB
+- Black swan
+- Labyrinth
+- Frankenweenie
+- The silence (2018)
+- Hush(2016)
+- The cabin in the woods (2012)
+- Death of me(2020)
+- Don't breath (2016)
+- Don't breath 2(2021)
+- A quite place (2018)
+- Mirror
+- The exorcism of Emily rose
+- Midsommar
