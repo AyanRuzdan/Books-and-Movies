@@ -1,56 +1,61 @@
-# Novels
-
-- The time Traveller's wife 
-- The trial
-- Nausea(jean Paul Sartre)
-- A farewell to arms
-- Lolita(Vladimir Nabokov)
+Novels
+- Down Comes the Night ~ Allison Saft
+- Letter to Milena ~ Franz Kafka
+- Quiet The Power of Introverts in a World That Can't Stop Talking ~Susan Cain
+- Man's Search for Meaning ~ Viktor E. Frankl
+- The Art of Thinking Clearly ~ Rolf Dobelli
+- 1984 ~ George Orwell
+- The Great Gatsby ~ F. Scott Fitzgerald
+- Lord of the Flies ~ William Golding
+- Farhenheit 451 ~ Ray Bradbury
+- Mrs. Dalloway ~ Virginia Woolf
+- The Bell Jar ~ Sylvia Plath
+- His Dark Materials 1 (The Golden Compass) ~ Philip Pullman
+- His Dark Materials 2 (The Subtle Knife) ~ Philip Pullman
+- His Dark Materials 3 (The Amber Spyglass) ~ Philip Pullman
+- The Book of Dust 1 (La Belle Sauvage)  ~ Philip Pullman
+- The Book of Dust 2 (The Secret Commonwealth) ~ Philip Pullman
+- The Night Circus ~ Erin Morgenstern
+- The Starless Sea ~ Erin Morgenstern
+- The Binding ~ Bridget Collins
+- Ella Enchanted ~ Gail Carson Levine
+- The Girl Who Drank the Moon ~ Kelly Barnhill
+- Practical Magic ~ Alice Hoffman
+- The Rules of Magic ~ Alice Hoffman
+- The Sight (The Sight Part 1) ~ David Clement-Davies
+- Fell (The Sight Part 2) ~ David Clement-Davies
+- Fire Bringer ~ David Clement-Davies
+- To Kill a Mockingbird ~ Harper Lee
+- Rebecca ~ Daphne du Maurier
+- Wuthering Heights ~ Emily Brontë
+- War and Peace ~ Leo Tolstoy
+- Frankenstein ~ Mary Shelly
+- The Bell Jar ~ Sylvia Plath
+- The Time Traveller's Wife
+- The Trial
+- Nausea (Sartre)
+- A Farewell to Arms
+- Lolita
 - Jane Eyre
-- A thousand splendid suns(Khaled Hosseini)
-- At night all blood is black (David diop)
-- A little life(Hanya Yanagihara)
-- The brothers karamazove(Dostoevsky)
-- Crime and punishment(Dostoevsky)
-- Demons (Dostoevsky)
-- Six of crows(Leigh Bardugo)
-- Betty( Tiffany McDaniel)
-- The stranger(Albert Camus)
-- The Castle(Franz Kafka)
-- The unbearable lightness of being(Milan Kundera)
-- Down comes the night~ Allison shaft
-- Letters to milena~ Franz kafka
-- Quite (Susan Cain)
-- Man's Search for Meaning(Viktor Frankl)
-- The art of thinking clearly(Rolf Dobelli)
-- 1984 (George Orwell)
-- The Great Gatsby (by F. Scott Fitzgerald)
-- Lord of the Flies (by William Golding)
-- Fahrenheit 451 (by Ray Bradbury)
-- Mrs. Dalloway (by Virginia Woolf)
-- The Bell Jar (by Sylvia Plath)
-- His Dark Materials trilogy(by Phillip Pullman)
-- Book of Dust 1&2 (by Phillip Pullman)
-- the Night Circus(by Erin Morgenstern)
-- the starless sea (by Erin Morgenstern)
-- The Binding (by Bridget Collins)
-- Ella Enchanted (by Gail Carson Levine)
-- The Girl Who Drank the Moon (by Kelly Barnhill)
-- Practical Magic and Rules of Magic(by Alice Hoffman)
-- The Sight and Fire Bringer (by David Clement-Davies)
-- To kill a mockingbird
-- Rebecca
-- Wuthering Heights 
-- War and peace
-- Frankenstein
-- The catcher in the rye
-- The girl on the train
-- On earth we're briefly gorgeous(Ocean Vuong)
-- Giovanni's room( James Baldwin)
-- It ends with us(Colleen Hoover)
-- God, freedom and Evil(Alvin Plantinga)
-- Candide(Voltaire)
-- all the bright places (Ritesh' rec)
-- Wandering Stars (Tommy Orange)
+- A Thousand Splendid Suns
+- At Night All Blood is Black
+- A Little Life
+- The Brothers Karamazov
+- Crime and Punishment
+- Demons
+- Six of Crows
+- Betty(Tiffany)
+- The Stranger
+- The Castle
+- The Unbearable Lightness of Being
+- The Catcher in the Rye
+- The Girl on the Train
+- On Earth We're Briefly Gorgeous
+- Giovanni's Room
+- God, Freedom and Evil
+- Candide (Voltaire)
+- All the Bright Places
+- Wandering Stars
 - Wild Houses(Colin Barrett)
 - Held(Anne Michaels)
 - Creation Lake(Rachel Kushner)
@@ -64,7 +69,7 @@
 - Stone Yard Devotional(Charlotte Wood)
 - Headshot(Rita Bullwinkel)
 
-# Movies
+- Movies
 
 - Dead Poets Society (1989)
 - Lean on Me (1989)

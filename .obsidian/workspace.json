@@ -14,7 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "books and movies.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2030d97b9707cf3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "832a7ff5aa011bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "List/Novels.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e4352c078b0f9e10",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books and movies.md",
+                "file": "List/Novels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books and movies.md",
+                "file": "List/Novels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books and movies.md"
+                "file": "List/Novels.md"
               }
             }
           }
@@ -146,8 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d43f7c3e5380172",
+  "active": "832a7ff5aa011bf8",
   "lastOpenFiles": [
-    "books and movies.md"
+    "books and movies.md",
+    "List/Novels.md",
+    "God, Freedom and Evil.md",
+    "Six of Crows.md",
+    "A Thousand Splendid Suns.md",
+    "Nausea (Sartre).md"
   ]
 }

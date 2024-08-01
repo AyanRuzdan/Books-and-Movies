@@ -1,0 +1,42 @@
+# Movies
+
+- Dead Poets Society (1989)
+- Lean on Me (1989)
+- What's Eating Gilbert Grape (1993)
+- Forrest Gump (1994)
+- The Shawshank Redemption (1994)
+- American History X (1998)
+- Saving Private Ryan (1998)
+- The Matrix (1999)
+- Fight Club (1999)
+- The Green Mile (1999)
+- Pay It Forward (2000)
+- Requiem for a Dream (2000)
+- Waking Life (2001)
+- The Pianist (2002)
+- Coach Carter (2005)
+- Children of Men (2006)
+- The Pursuit of Happiness (2006)
+- Into the Wild (2007)
+- Blood Diamond (2007)
+- Freedom Writers (2007)
+- Seven Pounds (2008)
+- I Saw the Sun (2009)
+- 12 Years a Slave (2013)
+- The Secret Life of Walter Mitty (2013)
+- Room (2015)
+- Hacksaw Ridge (2016)
+- The curious case of BB
+- Black swan
+- Labyrinth
+- Frankenweenie
+- The silence (2018)
+- Hush(2016)
+- The cabin in the woods (2012)
+- Death of me(2020)
+- Don't breath (2016)
+- Don't breath 2(2021)
+- A quite place (2018)
+- Mirror
+- The exorcism of Emily rose
+- Midsommar
