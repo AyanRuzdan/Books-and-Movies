@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Novels",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Movies  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#Dystopia  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.398183760683761,
-  "repelStrength": 13.5726495726496,
-  "linkStrength": 0.747008547008547,
-  "linkDistance": 439,
-  "scale": 0.2319197579389423,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 0.451455301455301,
+  "lineSizeMultiplier": 0.777442827442827,
+  "collapse-forces": true,
+  "centerStrength": 0.595634095634096,
+  "repelStrength": 13.9085239085239,
+  "linkStrength": 0.4002079002079,
+  "linkDistance": 261,
+  "scale": 0.2405663266158997,
   "close": true
 }

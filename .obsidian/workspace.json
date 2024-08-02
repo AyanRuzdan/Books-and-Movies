@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e8be439d47e8cdad",
+        "id": "0f6cd6147bdc2df2",
         "type": "tabs",
         "children": [
           {
-            "id": "bd321a5d00debf80",
+            "id": "a44e6ee06702b8e2",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "36a4661d993487a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Novels/Master of the Game ~ Sidney Sheldon.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -56,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Dystopia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +61,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e4352c078b0f9e10",
@@ -147,32 +137,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd321a5d00debf80",
+  "active": "a44e6ee06702b8e2",
   "lastOpenFiles": [
-    "List/Novels.md",
-    "Novels/Master of the Game ~ Sidney Sheldon.md",
-    "Novels/Stone Yard Devotional ~ Charlotte Wood.md",
-    "Novels/Headshot ~ Rita Bullwinkel.md",
-    "Novels/Eichmann in Jerusalem A Report on the Banality of Evil ~ Hannah Arendt.md",
-    "Novels/Wuthering Heights ~ Emily Brontë.md",
-    "Novels/War and Peace ~ Leo Tolstoy.md",
-    "Novels/Untitled.md",
-    "Novels/A Farewell to Arms ~ Ernest Hemingway.md",
-    "Novels/Nausea ~ Jean-Paul Sartre.md",
-    "Novels/The Trial ~ Franz Kafka.md",
     "Novels/1984 ~ George Orwell.md",
-    "Novels/The Time Traveller's Wife ~ Audrey Niffenegger.md",
-    "List/del.py",
-    "List/Movies.md",
+    "Novels/Master of the Game ~ Sidney Sheldon.md",
+    "templates/{{Book Name}}.md",
+    "2024-08-02.md",
+    "templates",
+    "Untitled.canvas",
+    "Novels/Frankenstein ~ Mary Shelly.md",
+    "Novels/A Farewell to Arms ~ Ernest Hemingway.md",
     "books and movies.md",
-    "README.md",
-    "List/test.py",
-    "God, Freedom and Evil.md",
-    "Six of Crows.md",
-    "A Thousand Splendid Suns.md",
-    "Nausea (Sartre).md"
+    "List/Movies.md",
+    "Movies/What's Eating Gilbert Grape (1993).md",
+    "Movies/The Shawshank Redemption (1994).md",
+    "Movies/The Matrix (1999).md",
+    "Movies/Saving Private Ryan (1998).md",
+    "Movies/Lean on Me (1989).md",
+    "Movies/Forrest Gump (1994).md",
+    "Movies/American History X (1998).md",
+    "Movies/Dead Poets Society (1989).md",
+    "The Matrix (1999).md",
+    "Saving Private Ryan (1998).md",
+    "American History X (1998).md",
+    "The Shawshank Redemption (1994).md",
+    "Forrest Gump (1994).md",
+    "What's Eating Gilbert Grape (1993).md",
+    "Lean on Me (1989).md",
+    "Dead Poets Society (1989).md",
+    "Movies",
+    "List/Novels.md",
+    "Novels/Stone Yard Devotional ~ Charlotte Wood.md",
+    "List/del.py",
+    "List/test.py"
   ]
 }

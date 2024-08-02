@@ -1,3 +1,7 @@
 {
-  "textFontFamily": "Abyssinica SIL"
+  "textFontFamily": "Abyssinica SIL",
+  "cssTheme": "Typewriter",
+  "accentColor": "",
+  "nativeMenus": false,
+  "theme": "obsidian"
 }
