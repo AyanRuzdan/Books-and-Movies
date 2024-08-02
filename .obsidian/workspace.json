@@ -8,13 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44b0fe670d69fa9d",
+            "id": "bd321a5d00debf80",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "36a4661d993487a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List/Novels.md",
-                "mode": "preview",
+                "file": "Novels/Master of the Game ~ Sidney Sheldon.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List/Novels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List/Novels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +130,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "List/Novels.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,13 +150,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44b0fe670d69fa9d",
+  "active": "bd321a5d00debf80",
   "lastOpenFiles": [
+    "List/Novels.md",
+    "Novels/Master of the Game ~ Sidney Sheldon.md",
+    "Novels/Stone Yard Devotional ~ Charlotte Wood.md",
+    "Novels/Headshot ~ Rita Bullwinkel.md",
+    "Novels/Eichmann in Jerusalem A Report on the Banality of Evil ~ Hannah Arendt.md",
+    "Novels/Wuthering Heights ~ Emily Brontë.md",
+    "Novels/War and Peace ~ Leo Tolstoy.md",
+    "Novels/Untitled.md",
+    "Novels/A Farewell to Arms ~ Ernest Hemingway.md",
+    "Novels/Nausea ~ Jean-Paul Sartre.md",
+    "Novels/The Trial ~ Franz Kafka.md",
+    "Novels/1984 ~ George Orwell.md",
+    "Novels/The Time Traveller's Wife ~ Audrey Niffenegger.md",
     "List/del.py",
     "List/Movies.md",
     "books and movies.md",
     "README.md",
-    "List/Novels.md",
     "List/test.py",
     "God, Freedom and Evil.md",
     "Six of Crows.md",

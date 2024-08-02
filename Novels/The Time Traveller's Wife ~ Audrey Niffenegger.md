@@ -1,0 +1,2 @@
+Tags: [[Fiction]], [[Romance]], [[Sci-fi]], [[Young Adult]]
+This is the extraordinary love story of Clare and Henry, who met when Clare was six and Henry was thirty-six, and were married when Clare was twenty-two and Henry was thirty. Impossible but true, because Henry suffers from a rare condition where his genetic clock periodically resets and he finds himself pulled suddenly into his past or future. In the face of this force they can neither prevent nor control, Henry and Clare’s struggle to lead normal lives is both intensely moving and entirely unforgettable.

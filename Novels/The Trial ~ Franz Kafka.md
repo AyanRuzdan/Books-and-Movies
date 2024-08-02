@@ -1,0 +1,2 @@
+Tags: [[Fiction]], [[Philosophy]], [[Dystopia]]
+Written in 1914 but not published until 1925, a year after Kafka’s death, _The Trial_ is the terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information. Whether read as an existential tale, a parable, or a prophecy of the excesses of modern bureaucracy wedded to the madness of totalitarianism, _The Trial_ has resonated with chilling truth for generations of readers.
