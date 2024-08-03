@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List/Novels.md",
-                "mode": "preview",
+                "file": "List/Movies.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List/Novels.md",
+                "file": "List/Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List/Novels.md",
+                "file": "List/Movies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List/Novels.md"
+                "file": "List/Movies.md"
               }
             }
           }
@@ -156,14 +156,17 @@
   },
   "active": "1b56efa8c8229ffb",
   "lastOpenFiles": [
-    "Novels/1984 ~ George Orwell.md",
-    "List/Novels.md",
+    "Novels/Wuthering Heights ~ Emily Brontë.md",
+    "Novels/The Starless Sea ~ Erin Morgenstern.md",
     "Novels/Down Comes the Night ~ Allison Saft.md",
+    "Novels/Norwegian Wood ~ Murakami.md",
+    "List/Novels.md",
+    "List/Movies.md",
+    "Novels/1984 ~ George Orwell.md",
     "Norwegian Wood ~ Murakami.md",
     "Novels/Frankenstein ~ Mary Shelly.md",
     "Sci-fi.md",
     "Novels/His Dark Materials 1 (The Golden Compass) ~ Philip Pullman.md",
-    "List/Movies.md",
     "Novels/Untitled.md",
     "Frankenstein ~ Mary Shelly.md",
     "War and Peace ~ Leo Tolstoy.md",

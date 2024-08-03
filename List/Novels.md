@@ -29,4 +29,8 @@
 - [ ] [[Wuthering Heights ~ Emily Brontë]]
 - [ ] [[War and Peace ~ Leo Tolstoy]]
 - [ ] [[Frankenstein ~ Mary Shelly]]
+<<<<<<< HEAD
 - [ ] [[Norwegian Wood ~ Murakami]]
+=======
+- [ ] [[The Bell Jar ~ Sylvia Plath]]
+>>>>>>> d8e3fd394047453497ae7a8d77d6d92c5d13a17b
