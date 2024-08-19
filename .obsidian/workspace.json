@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f6cd6147bdc2df2",
+        "id": "1cfd3fd204274c70",
         "type": "tabs",
         "children": [
           {
-            "id": "a44e6ee06702b8e2",
+            "id": "e29b25b6a66bacd2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -141,7 +141,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a44e6ee06702b8e2",
+  "active": "e29b25b6a66bacd2",
   "lastOpenFiles": [
     "Novels/1984 ~ George Orwell.md",
     "Novels/Master of the Game ~ Sidney Sheldon.md",
