@@ -69,3 +69,6 @@
 69. [ ] [[Headshot ~ Rita Bullwinkel]]
 70. [ ] [[Eichmann in Jerusalem A Report on the Banality of Evil ~ Hannah Arendt]]
 71. [ ] [[Master of the Game ~ Sidney Sheldon]]
+72. [ ] [[Norwegian Wood ~ Murakami]]
+73. [x] [[The Metamorphosis ~ Franz Kafka]]
+74. [x] [[The Road ~ Cormac McCarthy]]

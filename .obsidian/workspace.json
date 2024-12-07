@@ -1,18 +1,24 @@
 {
   "main": {
-    "id": "f3803c78fb28bc2a",
+    "id": "0a7526312a461033",
     "type": "split",
     "children": [
       {
+        "id": "35e7142939a03beb",
         "id": "1cfd3fd204274c70",
         "type": "tabs",
         "children": [
           {
+            "id": "1b56efa8c8229ffb",
             "id": "e29b25b6a66bacd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "List/Movies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "380caca383c8809b",
+    "id": "6ac41d22c41be7ad",
     "type": "split",
     "children": [
       {
-        "id": "ccd86dbf96e05017",
+        "id": "8a80a16e703df0fd",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0309e013597083",
+            "id": "e283433f4ed239b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +45,12 @@
             }
           },
           {
-            "id": "1c1d7e3838ebabf2",
+            "id": "f8c0f3bab6cca3ef",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dystopia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,34 +60,43 @@
             }
           },
           {
-            "id": "d68825bced4c54f4",
+            "id": "fca08ade4742e912",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1476d5ae046616ea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
+    "width": 300
   },
   "right": {
-    "id": "e4352c078b0f9e10",
+    "id": "5f31ec5d7853d705",
     "type": "split",
     "children": [
       {
-        "id": "a809564e98ca0948",
+        "id": "557800fc51f0f40e",
         "type": "tabs",
         "children": [
           {
-            "id": "3baa143567dbc094",
+            "id": "3ebed97366dd833a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "List/Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +108,19 @@
             }
           },
           {
-            "id": "8fc37b85fc880503",
+            "id": "642724726ec15656",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "List/Movies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7601818c8560211",
+            "id": "620198d6eff15dba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +131,13 @@
             }
           },
           {
-            "id": "d6a3e83b334eb886",
+            "id": "eaed2733455f7627",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "List/Movies.md"
+              }
             }
           }
         ]
@@ -136,42 +154,36 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "e29b25b6a66bacd2",
   "lastOpenFiles": [
-    "Novels/1984 ~ George Orwell.md",
-    "Novels/Master of the Game ~ Sidney Sheldon.md",
-    "templates/{{Book Name}}.md",
-    "2024-08-02.md",
-    "templates",
-    "Untitled.canvas",
-    "Novels/Frankenstein ~ Mary Shelly.md",
-    "Novels/A Farewell to Arms ~ Ernest Hemingway.md",
     "books and movies.md",
-    "List/Movies.md",
+    "Novels/The Trial ~ Franz Kafka.md",
+    "Novels/The Time Traveller's Wife ~ Audrey Niffenegger.md",
+    "Novels/Stone Yard Devotional ~ Charlotte Wood.md",
+    "Novels/Nausea ~ Jean-Paul Sartre.md",
+    "Novels/Master of the Game ~ Sidney Sheldon.md",
+    "Novels/Headshot ~ Rita Bullwinkel.md",
+    "Novels/Eichmann in Jerusalem A Report on the Banality of Evil ~ Hannah Arendt.md",
+    "Novels/A Farewell to Arms ~ Ernest Hemingway.md",
     "Movies/What's Eating Gilbert Grape (1993).md",
     "Movies/The Shawshank Redemption (1994).md",
     "Movies/The Matrix (1999).md",
     "Movies/Saving Private Ryan (1998).md",
     "Movies/Lean on Me (1989).md",
     "Movies/Forrest Gump (1994).md",
-    "Movies/American History X (1998).md",
     "Movies/Dead Poets Society (1989).md",
-    "The Matrix (1999).md",
-    "Saving Private Ryan (1998).md",
-    "American History X (1998).md",
-    "The Shawshank Redemption (1994).md",
-    "Forrest Gump (1994).md",
-    "What's Eating Gilbert Grape (1993).md",
-    "Lean on Me (1989).md",
-    "Dead Poets Society (1989).md",
+    "Movies/American History X (1998).md",
     "Movies",
+    "Novels/Wuthering Heights ~ Emily Brontë.md",
+    "Novels/The Starless Sea ~ Erin Morgenstern.md",
+    "Novels/Down Comes the Night ~ Allison Saft.md",
+    "Novels/Norwegian Wood ~ Murakami.md",
     "List/Novels.md",
-    "Novels/Stone Yard Devotional ~ Charlotte Wood.md",
-    "List/del.py",
-    "List/test.py"
+    "List/Movies.md",
+    "Novels/1984 ~ George Orwell.md",
+    "Norwegian Wood ~ Murakami.md"
   ]
 }
