@@ -68,6 +68,11 @@
 - My Friends ~ Hisham Matar
 - Stone Yard Devotional ~ Charlotte Wood
 - Headshot ~ Rita Bullwinkel
+- Eichmann in Jerusalem A Report on the Banality of Evil ~ Hannah Arendt
+- Master of the Game ~ Sidney Sheldon
+- Norwegian Wood ~ Murakami
+- The Metamorphosis ~ Franz Kafka
+- The Road ~ Cormac McCarthy
 # Movies
 - Dead Poets Society (1989)
 - Lean on Me (1989)
@@ -109,3 +114,5 @@
 - Mirror
 - The Exorcism of Emily Rose
 - Midsommar
+- Blade Runner (1982)
+- Blade Runner 2049 (2017)

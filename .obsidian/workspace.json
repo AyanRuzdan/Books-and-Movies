@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novels/1984 ~ George Orwell.md",
+                "file": "books and movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1984 ~ George Orwell"
+              "title": "books and movies"
             }
           }
         ]
@@ -164,5 +164,7 @@
     }
   },
   "active": "1f4fb65fec4399f5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Novels/1984 ~ George Orwell.md"
+  ]
 }
