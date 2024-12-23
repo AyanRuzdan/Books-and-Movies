@@ -1,18 +1,24 @@
 {
   "main": {
-    "id": "0a7526312a461033",
+    "id": "270aa2d2f0ae1c37",
     "type": "split",
     "children": [
       {
-        "id": "35e7142939a03beb",
+        "id": "90fb15832498a95f",
         "type": "tabs",
         "children": [
           {
-            "id": "1b56efa8c8229ffb",
+            "id": "1f4fb65fec4399f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "books and movies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "books and movies"
             }
           }
         ]
@@ -21,25 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6ac41d22c41be7ad",
+    "id": "afa55e4ae50cad0c",
     "type": "split",
     "children": [
       {
-        "id": "8a80a16e703df0fd",
+        "id": "7ea4740ae0c32a16",
         "type": "tabs",
         "children": [
           {
-            "id": "e283433f4ed239b9",
+            "id": "11e093c08b126f81",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "f8c0f3bab6cca3ef",
+            "id": "72b402bb81291481",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,23 +58,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "fca08ade4742e912",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "1476d5ae046616ea",
+            "id": "488c0e031d38cbfe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -77,19 +81,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "5f31ec5d7853d705",
+    "id": "a06715bc67b6799e",
     "type": "split",
     "children": [
       {
-        "id": "557800fc51f0f40e",
+        "id": "3964487797bd1ef1",
         "type": "tabs",
         "children": [
           {
-            "id": "3ebed97366dd833a",
+            "id": "a258ff109b45aa61",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Novels/1984 ~ George Orwell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,37 +102,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1984 ~ George Orwell"
             }
           },
           {
-            "id": "642724726ec15656",
+            "id": "68ab460113209cd7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Novels/1984 ~ George Orwell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1984 ~ George Orwell"
             }
           },
           {
-            "id": "620198d6eff15dba",
+            "id": "40d802d5b476bd94",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "eaed2733455f7627",
+            "id": "fd1d1d66514a23b7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Novels/1984 ~ George Orwell.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1984 ~ George Orwell"
             }
           }
         ]
@@ -144,10 +160,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b56efa8c8229ffb",
+  "active": "1f4fb65fec4399f5",
   "lastOpenFiles": [
     "List/Movies.md",
     "Sci-fi.md",

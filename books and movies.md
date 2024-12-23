@@ -1,19 +1,19 @@
 # Novels
 - Down Comes the Night ~ Allison Saft
 - Letter to Milena ~ Franz Kafka
-- Quiet The Power of Introverts in a World That Can't Stop Talking ~Susan Cain
+- Quiet: The Power of Introverts in a World That Can't Stop Talking ~ Susan Cain
 - Man's Search for Meaning ~ Viktor E. Frankl
 - The Art of Thinking Clearly ~ Rolf Dobelli
 - 1984 ~ George Orwell
 - The Great Gatsby ~ F. Scott Fitzgerald
 - Lord of the Flies ~ William Golding
-- Farhenheit 451 ~ Ray Bradbury
+- Fahrenheit 451 ~ Ray Bradbury
 - Mrs. Dalloway ~ Virginia Woolf
 - The Bell Jar ~ Sylvia Plath
 - His Dark Materials 1 (The Golden Compass) ~ Philip Pullman
 - His Dark Materials 2 (The Subtle Knife) ~ Philip Pullman
 - His Dark Materials 3 (The Amber Spyglass) ~ Philip Pullman
-- The Book of Dust 1 (La Belle Sauvage)  ~ Philip Pullman
+- The Book of Dust 1 (La Belle Sauvage) ~ Philip Pullman
 - The Book of Dust 2 (The Secret Commonwealth) ~ Philip Pullman
 - The Night Circus ~ Erin Morgenstern
 - The Starless Sea ~ Erin Morgenstern
@@ -29,48 +29,51 @@
 - Rebecca ~ Daphne du Maurier
 - Wuthering Heights ~ Emily Brontë
 - War and Peace ~ Leo Tolstoy
-- Frankenstein ~ Mary Shelly
-- The Bell Jar ~ Sylvia Plath
+- Frankenstein ~ Mary Shelley
 - The Time Traveller's Wife
-- The Trial
-- Nausea (Sartre)
-- A Farewell to Arms
-- Lolita
-- Jane Eyre
-- A Thousand Splendid Suns
-- At Night All Blood is Black
-- A Little Life
-- The Brothers Karamazov
-- Crime and Punishment
-- Demons
-- Six of Crows
-- Betty(Tiffany)
-- The Stranger
-- The Castle
-- The Unbearable Lightness of Being
-- The Catcher in the Rye
-- The Girl on the Train
-- On Earth We're Briefly Gorgeous
-- Giovanni's Room
-- God, Freedom and Evil
-- Candide (Voltaire)
+- The Trial ~ Franz Kafka
+- Nausea ~ Jean-Paul Sartre
+- A Farewell to Arms ~ Ernest Hemingway
+- Lolita ~ Vladimir Nabokov
+- Jane Eyre ~ Charlotte Brontë
+- A Thousand Splendid Suns ~ Khaled Hosseini
+- At Night All Blood is Black ~ David Diop
+- A Little Life ~ Hanya Yanagihara
+- The Brothers Karamazov ~ Fyodor Dostoevsky
+- Crime and Punishment ~ Fyodor Dostoevsky
+- Demons ~ Fyodor Dostoevsky
+- Six of Crows ~ Leigh Bardugo
+- Betty ~ Tiffany McDaniel
+- The Stranger ~ Albert Camus
+- The Castle ~ Franz Kafka
+- The Unbearable Lightness of Being ~ Milan Kundera
+- The Catcher in the Rye ~ J.D. Salinger
+- The Girl on the Train ~ Paula Hawkins
+- On Earth We're Briefly Gorgeous ~ Ocean Vuong
+- Giovanni's Room ~ James Baldwin
+- God, Freedom and Evil ~ Alvin Plantinga
+- Candide ~ Voltaire
 - All the Bright Places
+- The Inheritance Games ~ Jennifer Lynn Barnes
 - Wandering Stars
-- Wild Houses(Colin Barrett)
-- Held(Anne Michaels)
-- Creation Lake(Rachel Kushner)
-- This Strange Eventful History(Claire Messud)
-- Playground(Richard Powers)
-- Enlightenment(Sarah Perry)
-- Orbital(Samantha Harvey)
-- James(Percival Everett)
-- The Safekeep(Yael van der Wouden)
-- My Friends(Hisham Matar)
-- Stone Yard Devotional(Charlotte Wood)
-- Headshot(Rita Bullwinkel)
-
+- Wild Houses ~ Colin Barrett
+- Held ~ Anne Michaels
+- Creation Lake ~ Rachel Kushner
+- This Strange Eventful History ~ Claire Messud
+- Playground ~ Richard Powers
+- Enlightenment ~ Sarah Perry
+- Orbital ~ Samantha Harvey
+- James ~ Percival Everett
+- The Safekeep ~ Yael van der Wouden
+- My Friends ~ Hisham Matar
+- Stone Yard Devotional ~ Charlotte Wood
+- Headshot ~ Rita Bullwinkel
+- Eichmann in Jerusalem A Report on the Banality of Evil ~ Hannah Arendt
+- Master of the Game ~ Sidney Sheldon
+- Norwegian Wood ~ Murakami
+- The Metamorphosis ~ Franz Kafka
+- The Road ~ Cormac McCarthy
 # Movies
-
 - Dead Poets Society (1989)
 - Lean on Me (1989)
 - What's Eating Gilbert Grape (1993)
@@ -97,17 +100,19 @@
 - The Secret Life of Walter Mitty (2013)
 - Room (2015)
 - Hacksaw Ridge (2016)
-- The curious case of BB
-- Black swan
+- The Curious Case of Benjamin Button
+- Black Swan
 - Labyrinth
 - Frankenweenie
-- The silence (2018)
-- Hush(2016)
-- The cabin in the woods (2012)
-- Death of me(2020)
-- Don't breath (2016)
-- Don't breath 2(2021)
-- A quite place (2018)
+- The Silence (2018)
+- Hush (2016)
+- The Cabin in the Woods (2012)
+- Death of Me (2020)
+- Don't Breathe (2016)
+- Don't Breathe 2 (2021)
+- A Quiet Place (2018)
 - Mirror
-- The exorcism of Emily rose
+- The Exorcism of Emily Rose
 - Midsommar
+- Blade Runner (1982)
+- Blade Runner 2049 (2017)
