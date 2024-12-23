@@ -1,8 +1,3 @@
 [
-  "obsidian-git",
-  "table-editor-obsidian",
-  "obsidian-smart-typography",
-  "obsidian-plugin-update-tracker",
-  "persistent-graph",
-  "obsidian-meta-bind-plugin"
+  "persistent-graph"
 ]

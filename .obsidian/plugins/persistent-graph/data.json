@@ -1,0 +1,670 @@
+{
+  "nodePositions": [
+    {
+      "id": "List/Movies.md",
+      "x": -1144.8043212890625,
+      "y": 124.73436737060547
+    },
+    {
+      "id": "Fight Club (1999)",
+      "x": -682.2734375,
+      "y": 893.3741455078125
+    },
+    {
+      "id": "The Green Mile (1999)",
+      "x": -1705.6082763671875,
+      "y": 424.7107849121094
+    },
+    {
+      "id": "Pay It Forward (2000)",
+      "x": -1336.181640625,
+      "y": -383.4017028808594
+    },
+    {
+      "id": "Requiem for a Dream (2000)",
+      "x": -1323.1019287109375,
+      "y": -613.6490478515625
+    },
+    {
+      "id": "Waking Life (2001)",
+      "x": -1378.4180908203125,
+      "y": -48.96015930175781
+    },
+    {
+      "id": "The Pianist (2002)",
+      "x": -1639.778564453125,
+      "y": 645.4498901367188
+    },
+    {
+      "id": "Coach Carter (2005)",
+      "x": -1527.6385498046875,
+      "y": 138.32298278808594
+    },
+    {
+      "id": "Children of Men (2006)",
+      "x": -889.4088134765625,
+      "y": 278.95843505859375
+    },
+    {
+      "id": "The Pursuit of Happiness (2006)",
+      "x": -619.7094116210938,
+      "y": -155.77696228027344
+    },
+    {
+      "id": "Into the Wild (2007)",
+      "x": -1029.392333984375,
+      "y": 569.140380859375
+    },
+    {
+      "id": "Blood Diamond (2007)",
+      "x": -1458.0140380859375,
+      "y": 372.1865539550781
+    },
+    {
+      "id": "Freedom Writers (2007)",
+      "x": -1608.2239990234375,
+      "y": -454.40234375
+    },
+    {
+      "id": "Seven Pounds (2008)",
+      "x": -1304.7601318359375,
+      "y": 999.64404296875
+    },
+    {
+      "id": "I Saw the Sun (2009)",
+      "x": -864.566162109375,
+      "y": 1050.5452880859375
+    },
+    {
+      "id": "12 Years a Slave (2013)",
+      "x": -944.0654296875,
+      "y": -416.8527526855469
+    },
+    {
+      "id": "The Secret Life of Walter Mitty (2013)",
+      "x": -1475.68505859375,
+      "y": 848.682861328125
+    },
+    {
+      "id": "Room (2015)",
+      "x": -1101.97900390625,
+      "y": 1087.2861328125
+    },
+    {
+      "id": "Hacksaw Ridge (2016)",
+      "x": -821.96142578125,
+      "y": 17.82598304748535
+    },
+    {
+      "id": "The curious case of BB",
+      "x": -763.0048828125,
+      "y": 455.0505065917969
+    },
+    {
+      "id": "Black swan",
+      "x": -907.4108276367188,
+      "y": -193.96397399902344
+    },
+    {
+      "id": "Labyrinth",
+      "x": -818.5802612304688,
+      "y": 712.0609741210938
+    },
+    {
+      "id": "Frankenweenie",
+      "x": -1215.427490234375,
+      "y": 436.7176513671875
+    },
+    {
+      "id": "The silence (2018)",
+      "x": -1749.5997314453125,
+      "y": -264.5355529785156
+    },
+    {
+      "id": "Hush(2016)",
+      "x": -1100.4959716796875,
+      "y": -565.646484375
+    },
+    {
+      "id": "The cabin in the woods (2012)",
+      "x": -1006.031982421875,
+      "y": 856.8889770507812
+    },
+    {
+      "id": "Death of me(2020)",
+      "x": -877.1182861328125,
+      "y": -773.4204711914062
+    },
+    {
+      "id": "Don't breath (2016)",
+      "x": -1211.7249755859375,
+      "y": 759.315185546875
+    },
+    {
+      "id": "Don't breath 2(2021)",
+      "x": -1082.939453125,
+      "y": -826.9533081054688
+    },
+    {
+      "id": "A quite place (2018)",
+      "x": -1550.1751708984375,
+      "y": -670.0949096679688
+    },
+    {
+      "id": "Mirror",
+      "x": -1767.094970703125,
+      "y": 200.84934997558594
+    },
+    {
+      "id": "The exorcism of Emily rose",
+      "x": -667.73046875,
+      "y": -374.6915588378906
+    },
+    {
+      "id": "Midsommar",
+      "x": -1154.326904296875,
+      "y": -238.16064453125
+    },
+    {
+      "id": "List/Novels.md",
+      "x": 676.8505249023438,
+      "y": 71.67062377929688
+    },
+    {
+      "id": "Lolita ~ Vladimir Nabokov",
+      "x": -89.08551788330078,
+      "y": -82.3393783569336
+    },
+    {
+      "id": "Jane Eyre ~ Charlotte Bronte",
+      "x": 354.6097412109375,
+      "y": 487.47796630859375
+    },
+    {
+      "id": "A Thousand Splendid Suns ~ Khaled Hosseini",
+      "x": 360.73675537109375,
+      "y": -610.34130859375
+    },
+    {
+      "id": "At Night All Blood is Black ~ David Diop",
+      "x": -44.4510498046875,
+      "y": 192.6401824951172
+    },
+    {
+      "id": "A Little Life ~ Hanya Yanagihara",
+      "x": 119.54340362548828,
+      "y": 466.97467041015625
+    },
+    {
+      "id": "The Brothers Karamazov ~ Fyodor Dostoevsky",
+      "x": 434.1927795410156,
+      "y": 239.48194885253906
+    },
+    {
+      "id": "Crime and Punishment ~ Fyodor Dostoevsky",
+      "x": 31.79869842529297,
+      "y": -662.5081176757812
+    },
+    {
+      "id": "Demons ~ Fyodor Dostoevsky",
+      "x": 30.91523551940918,
+      "y": -273.1230163574219
+    },
+    {
+      "id": "Six of Crows ~ Leigh Bardugo",
+      "x": 196.3137969970703,
+      "y": -449.3146667480469
+    },
+    {
+      "id": "Betty ~ Tiffany McDaniel",
+      "x": 173.4441375732422,
+      "y": 234.00418090820312
+    },
+    {
+      "id": "The Stranger ~ Albert Camus",
+      "x": 464.7890625,
+      "y": -912.4309692382812
+    },
+    {
+      "id": "The Castle ~ Franz Kafka",
+      "x": 747.3130493164062,
+      "y": -547.8302612304688
+    },
+    {
+      "id": "The Unbearable Lightness of Being ~ Milan Kundera",
+      "x": 973.9938354492188,
+      "y": -423.9781799316406
+    },
+    {
+      "id": "The Catcher in the Rye ~ J.D. Salinger",
+      "x": 235.7838897705078,
+      "y": -789.6095581054688
+    },
+    {
+      "id": "The Girl on the Train ~ Paula Hawkins",
+      "x": 525.828369140625,
+      "y": -448.3993225097656
+    },
+    {
+      "id": "On Earth We're Briefly Gorgeous ~ Ocean Vuong",
+      "x": 557.7408447265625,
+      "y": -208.3914031982422
+    },
+    {
+      "id": "Giovanni's Room ~ James Baldwin",
+      "x": 314.2304382324219,
+      "y": -268.30438232421875
+    },
+    {
+      "id": "God, Freedom and Evil ~ Alvin Plantinga",
+      "x": -86.63704681396484,
+      "y": -466.4995422363281
+    },
+    {
+      "id": "Candide ~ Voltaire",
+      "x": 1213.072265625,
+      "y": -286.5730895996094
+    },
+    {
+      "id": "All the Bright Places ~ Jennifer Niven",
+      "x": 730.2537231445312,
+      "y": -909.958251953125
+    },
+    {
+      "id": "Wandering Stars ~ Tommy Orange",
+      "x": 585.4461669921875,
+      "y": 446.97589111328125
+    },
+    {
+      "id": "Wild Houses ~ Colin Barrett",
+      "x": 124.63632202148438,
+      "y": -30.909934997558594
+    },
+    {
+      "id": "Held ~ Anne Michaels",
+      "x": 1275.169921875,
+      "y": -81.6689224243164
+    },
+    {
+      "id": "Creation Lake ~ Rachel Kushner",
+      "x": 349.42327880859375,
+      "y": -10.611397743225098
+    },
+    {
+      "id": "This Strange Eventful History ~ Claire Messud",
+      "x": 582.8367309570312,
+      "y": -723.0074462890625
+    },
+    {
+      "id": "Playground ~ Richard Powers",
+      "x": 1094.4581298828125,
+      "y": 65.98472595214844
+    },
+    {
+      "id": "Enlightenment ~ Sarah Perry",
+      "x": 774.7965698242188,
+      "y": -284.3270263671875
+    },
+    {
+      "id": "Orbital ~ Samantha Harvey",
+      "x": 1212.0771484375,
+      "y": -517.9348754882812
+    },
+    {
+      "id": "James ~ Percival Everett",
+      "x": 895.8776245117188,
+      "y": -724.2573852539062
+    },
+    {
+      "id": "The Safekeep ~ Yael van der Wouden",
+      "x": 980.2850341796875,
+      "y": -145.1938934326172
+    },
+    {
+      "id": "My Friends ~ Hisham Matar",
+      "x": 1120.040283203125,
+      "y": -699.6173706054688
+    },
+    {
+      "id": "Novels/1984 ~ George Orwell.md",
+      "x": -91.27816009521484,
+      "y": 1142.822509765625
+    },
+    {
+      "id": "Fiction",
+      "x": 619.0308227539062,
+      "y": 837.458984375
+    },
+    {
+      "id": "Sci-fi",
+      "x": 129.06503295898438,
+      "y": 1746.62158203125
+    },
+    {
+      "id": "Dystopia",
+      "x": -485.5329895019531,
+      "y": 1506.859375
+    },
+    {
+      "id": "Novels/Down Comes the Night ~ Allison Saft.md",
+      "x": 1295.274658203125,
+      "y": 331.3135681152344
+    },
+    {
+      "id": "War",
+      "x": 385.30889892578125,
+      "y": -1320.3536376953125
+    },
+    {
+      "id": "Fantasy",
+      "x": 1442.2806396484375,
+      "y": 1156.671142578125
+    },
+    {
+      "id": "Young Adult",
+      "x": 1212.04638671875,
+      "y": 1387.342529296875
+    },
+    {
+      "id": "Novels/Ella Enchanted ~ Gail Carson Levine.md",
+      "x": 1564.30810546875,
+      "y": 348.85467529296875
+    },
+    {
+      "id": "Romance",
+      "x": 1598.9063720703125,
+      "y": -787.0017700195312
+    },
+    {
+      "id": "Novels/Farhenheit 451 ~ Ray Bradbury.md",
+      "x": -220.81568908691406,
+      "y": 1309.43603515625
+    },
+    {
+      "id": "Novels/Fell (The Sight Part 2) ~ David Clement-Davies.md",
+      "x": 955.8906860351562,
+      "y": 1248.9503173828125
+    },
+    {
+      "id": "Novels/Fire Bringer ~ David Clement-Davies.md",
+      "x": 1513.2918701171875,
+      "y": 865.8076171875
+    },
+    {
+      "id": "Novels/Frankenstein ~ Mary Shelly.md",
+      "x": 25.385921478271484,
+      "y": 1436.0423583984375
+    },
+    {
+      "id": "Horror",
+      "x": -253.89288330078125,
+      "y": 1732.1046142578125
+    },
+    {
+      "id": "Novels/His Dark Materials 1 (The Golden Compass) ~ Philip Pullman.md",
+      "x": 883.2199096679688,
+      "y": 1520.5992431640625
+    },
+    {
+      "id": "Novels/His Dark Materials 2 (The Subtle Knife) ~ Philip Pullman.md",
+      "x": 485.864990234375,
+      "y": 1249.771484375
+    },
+    {
+      "id": "Novels/His Dark Materials 3 (The Amber Spyglass) ~ Philip Pullman.md",
+      "x": 689.704833984375,
+      "y": 1372.2135009765625
+    },
+    {
+      "id": "Novels/Letter to Milena ~ Franz Kafka.md",
+      "x": 109.59471130371094,
+      "y": -1105.9752197265625
+    },
+    {
+      "id": "Nonfiction",
+      "x": -186.57833862304688,
+      "y": -1683.1771240234375
+    },
+    {
+      "id": "Novels/Lord of the Flies ~ William Golding.md",
+      "x": 215.51954650878906,
+      "y": 1250.751953125
+    },
+    {
+      "id": "Novels/Man's Search for Meaning ~ Viktor E. Frankl.md",
+      "x": -277.69439697265625,
+      "y": -1063.235595703125
+    },
+    {
+      "id": "Psychology",
+      "x": -439.3749084472656,
+      "y": -1631.3394775390625
+    },
+    {
+      "id": "Novels/Mrs. Dalloway ~ Virginia Woolf.md",
+      "x": 276.9305114746094,
+      "y": 956.4805297851562
+    },
+    {
+      "id": "Novels/Norwegian Wood ~ Murakami.md",
+      "x": 936.962890625,
+      "y": 231.72274780273438
+    },
+    {
+      "id": "Novels/Practical Magic ~ Alice Hoffman.md",
+      "x": 1175.8697509765625,
+      "y": 700.21728515625
+    },
+    {
+      "id": "Novels/Quiet The Power of Introverts in a World That Can't Stop Talking ~Susan Cain.md",
+      "x": -146.5924072265625,
+      "y": -1255.167724609375
+    },
+    {
+      "id": "Novels/Rebecca ~ Daphne du Maurier.md",
+      "x": 1277.046142578125,
+      "y": -939.0775756835938
+    },
+    {
+      "id": "Mystery",
+      "x": 1079.64794921875,
+      "y": -1443.9349365234375
+    },
+    {
+      "id": "Novels/The Art of Thinking Clearly ~ Rolf Dobelli.md",
+      "x": 53.39358139038086,
+      "y": -1406.222412109375
+    },
+    {
+      "id": "Novels/The Bell Jar ~ Sylvia Plath.md",
+      "x": 775.4224853515625,
+      "y": 530.71142578125
+    },
+    {
+      "id": "Novels/The Binding ~ Bridget Collins.md",
+      "x": 1678.7210693359375,
+      "y": -46.507965087890625
+    },
+    {
+      "id": "Novels/The Book of Dust 1 (La Belle Sauvage)  ~ Philip Pullman.md",
+      "x": 634.2041015625,
+      "y": 1619.703125
+    },
+    {
+      "id": "Novels/The Book of Dust 2 (The Secret Commonwealth) ~ Philip Pullman.md",
+      "x": 415.18505859375,
+      "y": 1520.35791015625
+    },
+    {
+      "id": "Novels/The Girl Who Drank the Moon ~ Kelly Barnhill.md",
+      "x": 1076.64453125,
+      "y": 1041.04296875
+    },
+    {
+      "id": "Novels/The Great Gatsby ~ F. Scott Fitzgerald.md",
+      "x": 1548.7039794921875,
+      "y": -275.2459411621094
+    },
+    {
+      "id": "Novels/The Night Circus ~ Erin Morgenstern.md",
+      "x": 1666.6607666015625,
+      "y": 550.0369873046875
+    },
+    {
+      "id": "Novels/The Rules of Magic ~ Alice Hoffman.md",
+      "x": 769.0602416992188,
+      "y": 1054.7042236328125
+    },
+    {
+      "id": "Novels/The Sight (The Sight Part 1) ~ David Clement-Davies.md",
+      "x": 1264.5889892578125,
+      "y": 949.2570190429688
+    },
+    {
+      "id": "Novels/The Starless Sea ~ Erin Morgenstern.md",
+      "x": 1502.51513671875,
+      "y": 101.04252624511719
+    },
+    {
+      "id": "Novels/To Kill a Mockingbird ~ Harper Lee.md",
+      "x": 354.5860900878906,
+      "y": 741.6611938476562
+    },
+    {
+      "id": "Novels/War and Peace ~ Leo Tolstoy.md",
+      "x": 82.2027587890625,
+      "y": 800.9151611328125
+    },
+    {
+      "id": "Novels/Wuthering Heights ~ Emily Brontë.md",
+      "x": 1473.859619140625,
+      "y": -473.65869140625
+    },
+    {
+      "id": "README.md",
+      "x": -1131.5994873046875,
+      "y": -1400.7918701171875
+    },
+    {
+      "id": "Movies/American History X (1998).md",
+      "x": -1742.298095703125,
+      "y": -32.758670806884766
+    },
+    {
+      "id": "Movies/Dead Poets Society (1989).md",
+      "x": -598.4191284179688,
+      "y": 84.57612609863281
+    },
+    {
+      "id": "Movies/Forrest Gump (1994).md",
+      "x": -590.5990600585938,
+      "y": 610.6903686523438
+    },
+    {
+      "id": "Movies/Lean on Me (1989).md",
+      "x": -574.660888671875,
+      "y": 303.3943176269531
+    },
+    {
+      "id": "Movies/Saving Private Ryan (1998).md",
+      "x": -1408.845947265625,
+      "y": 618.3861083984375
+    },
+    {
+      "id": "Movies/The Matrix (1999).md",
+      "x": -1313.761474609375,
+      "y": -837.1900634765625
+    },
+    {
+      "id": "Movies/The Shawshank Redemption (1994).md",
+      "x": -767.1276245117188,
+      "y": -587.8038940429688
+    },
+    {
+      "id": "Movies/What's Eating Gilbert Grape (1993).md",
+      "x": -1519.5679931640625,
+      "y": -213.3887939453125
+    },
+    {
+      "id": "Novels/A Farewell to Arms ~ Ernest Hemingway.md",
+      "x": 1009.7765502929688,
+      "y": -1018.60498046875
+    },
+    {
+      "id": "Novels/Eichmann in Jerusalem A Report on the Banality of Evil ~ Hannah Arendt.md",
+      "x": -481.60076904296875,
+      "y": -1287.4876708984375
+    },
+    {
+      "id": "History",
+      "x": -721.9912109375,
+      "y": -1584.1309814453125
+    },
+    {
+      "id": "Philosophy",
+      "x": -440.0299377441406,
+      "y": -754.5451049804688
+    },
+    {
+      "id": "Politics",
+      "x": -834.66796875,
+      "y": -1343.4801025390625
+    },
+    {
+      "id": "Novels/Headshot ~ Rita Bullwinkel.md",
+      "x": 1431.355224609375,
+      "y": 637.407470703125
+    },
+    {
+      "id": "Sports",
+      "x": 1855.9703369140625,
+      "y": 249.83445739746094
+    },
+    {
+      "id": "Novels/Master of the Game ~ Sidney Sheldon.md",
+      "x": 750.0707397460938,
+      "y": -1290.42041015625
+    },
+    {
+      "id": "Thriller",
+      "x": 274.242919921875,
+      "y": -1675.858154296875
+    },
+    {
+      "id": "Drama",
+      "x": 746.8009033203125,
+      "y": -1635.2088623046875
+    },
+    {
+      "id": "Crime",
+      "x": 503.9376220703125,
+      "y": -1660.41552734375
+    },
+    {
+      "id": "Novels/Nausea ~ Jean-Paul Sartre.md",
+      "x": -142.41761779785156,
+      "y": 500.9822998046875
+    },
+    {
+      "id": "Novels/Stone Yard Devotional ~ Charlotte Wood.md",
+      "x": 1015.4781494140625,
+      "y": 481.97186279296875
+    },
+    {
+      "id": "Novels/The Time Traveller's Wife ~ Audrey Niffenegger.md",
+      "x": 917.7005615234375,
+      "y": 806.2446899414062
+    },
+    {
+      "id": "Novels/The Trial ~ Franz Kafka.md",
+      "x": -217.49842834472656,
+      "y": 844.6128540039062
+    },
+    {
+      "id": "books and movies.md",
+      "x": -774.4060668945312,
+      "y": 1631.1827392578125
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}

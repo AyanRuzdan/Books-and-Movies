@@ -5,10 +5,9 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-<<<<<<< HEAD
       "query": "line:(Sci-fi)",
       "color": {
         "a": 1,
@@ -17,51 +16,22 @@
     },
     {
       "query": "line:(Romance)",
-=======
-      "query": "path:Novels",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:Movies  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#Dystopia  ",
->>>>>>> 43e26a1e22165e3e7ac1f3ac42664705d1ac5c4d
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-<<<<<<< HEAD
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.73503118503118,
+  "nodeSizeMultiplier": 0.838565488565489,
   "lineSizeMultiplier": 0.553326403326403,
-  "collapse-forces": false,
-  "centerStrength": 0.22972972972973,
-  "repelStrength": 13.5726495726496,
-  "linkStrength": 0.747008547008547,
-  "linkDistance": 439,
-  "scale": 0.33889143773280267,
-=======
-  "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 0.451455301455301,
-  "lineSizeMultiplier": 0.777442827442827,
   "collapse-forces": true,
   "centerStrength": 0.595634095634096,
-  "repelStrength": 13.9085239085239,
-  "linkStrength": 0.4002079002079,
-  "linkDistance": 261,
-  "scale": 0.2405663266158997,
->>>>>>> 43e26a1e22165e3e7ac1f3ac42664705d1ac5c4d
-  "close": true
+  "repelStrength": 16.1538461538462,
+  "linkStrength": 0.574844074844075,
+  "linkDistance": 240,
+  "scale": 0.660507054099309,
+  "close": false
 }
