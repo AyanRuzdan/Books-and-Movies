@@ -6,7 +6,7 @@
 6. [ ] [[1984 ~ George Orwell]]
 7. [ ] [[The Great Gatsby ~ F. Scott Fitzgerald]]
 8. [ ] [[Lord of the Flies ~ William Golding]]
-9. [ ] [[Farhenheit 451 ~ Ray Bradbury]]
+9. [x] [[Farhenheit 451 ~ Ray Bradbury]]
 10. [ ] [[Mrs. Dalloway ~ Virginia Woolf]]
 11. [ ] [[The Bell Jar ~ Sylvia Plath]]
 12. [ ] [[His Dark Materials 1 (The Golden Compass) ~ Philip Pullman]]
@@ -72,3 +72,4 @@
 72. [ ] [[Norwegian Wood ~ Murakami]]
 73. [x] [[The Metamorphosis ~ Franz Kafka]]
 74. [x] [[The Road ~ Cormac McCarthy]]
+75. [x] [[No Longer Human ~ Osamu Dazai]]

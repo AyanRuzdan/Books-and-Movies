@@ -4,7 +4,7 @@
 2. [ ] [[Lean on Me (1989)]]
 3. [ ] [[What's Eating Gilbert Grape (1993)]]
 4. [ ] [[Forrest Gump (1994)]]
-5. [ ] [[The Shawshank Redemption (1994)]]
+5. [x] [[The Shawshank Redemption (1994)]]
 6. [ ] [[American History X (1998)]]
 7. [ ] [[Saving Private Ryan (1998)]]
 8. [ ] [[The Matrix (1999)]]
