@@ -1,2 +1,3 @@
 Tags: [[Action]], [[Drama]], [[Horror]], [[Sci-fi]]
-![[Shin Godzilla (2016).png]]An unknown accident occurs in Tokyo Bay's Aqua Line, which causes an emergency cabinet to assemble. All of the sudden, a giant creature immediately appears, destroying town after town with its landing reaching the capital. This mysterious giant monster is named "Godzilla".
+![Shin Godzilla Poster](https://raw.githubusercontent.com/AyanRuzdan/Books-and-Movies/refs/heads/main/Posters/Shin%20Godzilla%20(2016).png)
+An unknown accident occurs in Tokyo Bay's Aqua Line, which causes an emergency cabinet to assemble. All of the sudden, a giant creature immediately appears, destroying town after town with its landing reaching the capital. This mysterious giant monster is named "Godzilla".
