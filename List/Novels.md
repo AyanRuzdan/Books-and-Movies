@@ -1,5 +1,5 @@
 1. [ ] [[Down Comes the Night ~ Allison Saft]]
-2. [ ]  [[Letters to Milena ~ Franz Kafka]]
+2. [ ] [[Letters to Milena ~ Franz Kafka]]
 3. [ ] [[Quiet The Power of Introverts in a World That Can't Stop Talking ~Susan Cain]]
 4. [ ] [[Man's Search for Meaning ~ Viktor E. Frankl]]
 5. [ ] [[The Art of Thinking Clearly ~ Rolf Dobelli]]
