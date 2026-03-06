@@ -1,7 +1,3 @@
-Here's a prioritized reading list for a software engineer ramping up on AI/ML:
-
----
-
 **Phase 1 — Build the Foundation (Months 1–3)**
 
 **1. Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow** — _Aurélien Géron_ The single best starting point. Practical, code-first, covers the full ML pipeline from data prep to deployment. You'll write real code from page one.
