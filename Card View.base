@@ -1,0 +1,6 @@
+views:
+  - type: cards
+    name: View
+    image: note.poster
+    cardSize: 200
+    imageAspectRatio: 1.5
