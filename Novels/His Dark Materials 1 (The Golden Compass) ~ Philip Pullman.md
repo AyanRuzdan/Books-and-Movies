@@ -1,3 +1,6 @@
+---
+goodreads score: 0
+---
 Tags: [[Sci-fi]], [[Fiction]], [[Fantasy]], [[Young Adult]]
 Overview:
 Lyra is rushing to the cold, far North, where witch clans and armored bears rule. North, where the Gobblers take the children they steal--including her friend Roger. North, where her fearsome uncle Asriel is trying to build a bridge to a parallel world.

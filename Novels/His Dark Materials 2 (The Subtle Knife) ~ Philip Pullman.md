@@ -1,3 +1,6 @@
+---
+goodreads score: 0
+---
 Tags: [[Sci-fi]], [[Fiction]], [[Fantasy]], [[Young Adult]]
 Overview:
 He had asked: What is he? A friend or an enemy?

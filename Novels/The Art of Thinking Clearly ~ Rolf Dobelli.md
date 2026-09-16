@@ -1,3 +1,6 @@
+---
+goodreads score: 0
+---
 Tags: [[Nonfiction]], [[Psychology]]
 Overview:
 In engaging prose and with practical examples and anecdotes, an eye-opening look at human reasoning and essential reading for anyone with important decisions to make. 

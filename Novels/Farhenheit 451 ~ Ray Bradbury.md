@@ -1,3 +1,6 @@
+---
+goodreads score: 0
+---
 Tags: [[Fiction]], [[Dystopia]], [[Sci-fi]]
 Overview:
 _“Monday burn Millay, Wednesday Whitman, Friday Faulkner, burn ’em to ashes, then burn the ashes.”_

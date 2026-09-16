@@ -1,3 +1,6 @@
+---
+goodreads score: 0
+---
 Tags: [[War]], [[Fantasy]], [[Young Adult]]
 Overview: 
 Wren Southerland’s reckless use of magic has cost her everything: she’s been dismissed from the Queen’s Guard and separated from her best friend—the girl she loves. So when a letter arrives from a reclusive lord, asking Wren to come to his estate, Colwick Hall, to cure his servant from a mysterious illness, she seizes her chance to redeem herself.  

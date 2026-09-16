@@ -1,3 +1,6 @@
+---
+goodreads score: 0
+---
 Tags: [[Fantasy]], [[Young Adult]], [[Fiction]]
 Overview:
 Young buck Rannoch was born on the night his father was murdered and into a herd of deer where hunger for power has gradually whittled away at all that is true and good. He knows he must escape to survive. Chased by stags, with their fearsome antlers sharpened for the kill, he begins a treacherous journey into the unknown, and ahead of him lies a shocking and formidable search for truth and goodwill in the shadow of the Great Mountain.  

@@ -1,3 +1,6 @@
+---
+goodreads score: 0
+---
 Tags: [[Fantasy]], [[Sci-fi]], [[Fiction]], [[Young Adult]]
 Overview:
 Malcolm Polstead is the kind of boy who notices everything but is not much noticed himself. And so perhaps it was inevitable that he would become a spy...

@@ -1,3 +1,6 @@
+---
+goodreads score: 0
+---
 Tags: [[Fantasy]], [[Fiction]]
 Overview:
 For the Owens family, love is a curse that began in 1620, when Maria Owens was charged with witchery for loving the wrong man.  

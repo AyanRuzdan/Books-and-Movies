@@ -1,8 +1,10 @@
 ---
 tags:
-- Fiction
-- Sci-Fi
-- Dystopia
+  - Fiction
+  - Sci-Fi
+  - Dystopia
+goodreads score: 4.21
+status: unread
 ---
 
 Tags: [[Fiction]],[[Sci-fi]], [[Dystopia]]

@@ -1,6 +1,6 @@
 views:
   - type: cards
-    name: View
+    name: Movie Card View
     filters:
       and:
         - file.folder == "Movies"
@@ -14,9 +14,11 @@ views:
         - file.folder == "Novels"
     order:
       - file.name
-      - file.tags
+      - goodreads score
+      - status
+      - tags
     sort:
-      - property: poster
+      - property: goodreads score
         direction: ASC
     columnSize:
       file.name: 567
