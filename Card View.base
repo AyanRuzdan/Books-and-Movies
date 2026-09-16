@@ -1,6 +1,22 @@
 views:
   - type: cards
     name: View
+    filters:
+      and:
+        - file.folder == "Movies"
     image: note.poster
-    cardSize: 200
+    cardSize: 140
     imageAspectRatio: 1.5
+  - type: table
+    name: Book List View
+    filters:
+      and:
+        - file.folder == "Novels"
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: poster
+        direction: ASC
+    columnSize:
+      file.name: 567
